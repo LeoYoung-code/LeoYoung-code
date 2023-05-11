@@ -1,6 +1,10 @@
 ### Leo 👋
 ### [Leo's Blog](https://blog-leoyoung-code.vercel.app)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoYoung-code)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **LeoYoung-code/LeoYoung-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
