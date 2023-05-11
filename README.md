@@ -46,7 +46,6 @@
 <p>&emsp;&emsp;Leo </p>
 <p>&emsp;&emsp;太理。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志赚钱!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;天行健,君子自强不息...</p>
 
 </td></tr>
