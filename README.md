@@ -2,7 +2,7 @@
 ### [Leo's Blog](https://blog-leoyoung-code.vercel.app)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoYoung-code)](https://github.com/anuraghazra/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoYoung-code)](https://github.com/LeoYoung-code)
 
 
 <!--
