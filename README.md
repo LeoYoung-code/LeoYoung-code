@@ -21,9 +21,9 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog-leoyoung-code.vercel.app/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/437052908/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_40920898"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/jocker-47-66/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=LeoYoung-code&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -43,7 +43,6 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;Leo </p>
 <p>&emsp;&emsp;太理。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志赚钱!</p>
 <p>&emsp;&emsp;天行健,君子自强不息...</p>
