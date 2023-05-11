@@ -1,8 +1,19 @@
 ### Leo 👋
 ### [Leo's Blog](https://blog-leoyoung-code.vercel.app)
 
+<!-- GitHub 统计 -->
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoYoung-code&show_icons=true&theme=radical)](https://github.com/LeoYoung-code)
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoYoung-code)](https://github.com/LeoYoung-code)
+<!-- 语言统计 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoYoung-code&layout=compact)](https://github.com/LeoYoung-code)
+
+
+
+
+
+
+
+
 
 
 <!--
