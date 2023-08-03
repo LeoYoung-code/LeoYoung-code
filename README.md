@@ -215,17 +215,15 @@ mindmap
 <!-- ########################################## 分割 ########################################## 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center">
+
 -->
 
 <!-- Joke 笑话 
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 -->
-  
+<div align="center">  
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoYoung-code&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 <!-- Spotify 音乐 
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
