@@ -60,6 +60,7 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> 🌟🌟🌟🌟🌟 力荐- 2023-08-03
 * <a href='https://book.douban.com/subject/33385217/' target='_blank'>全球科技通史</a> 🌟🌟🌟🌟🌟 力荐- 2023-07-17
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
