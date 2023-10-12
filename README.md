@@ -60,6 +60,7 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35723949/' target='_blank'>中国城市大趋势</a> 🌟🌟🌟🌟🌟 力荐- 2023-10-12
 * <a href='https://book.douban.com/subject/36350632/' target='_blank'>芯片战争</a> 🌟🌟🌟🌟🌟🌟 力荐- 2023-09-15
 * <a href='https://book.douban.com/subject/34974272/' target='_blank'>一人一厨一狗</a> 🌟🌟🌟🌟 力荐- 2023-08-31
 * <a href='https://book.douban.com/subject/35546622/' target='_blank'>置身事内</a> 🌟🌟🌟🌟🌟 力荐- 2023-08-03
